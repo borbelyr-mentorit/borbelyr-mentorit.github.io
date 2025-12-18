@@ -1,1 +1,1 @@
-# GitHub pages of 'borbelyr-mentorit'
+## GitHub pages of 'borbelyr-mentorit'
